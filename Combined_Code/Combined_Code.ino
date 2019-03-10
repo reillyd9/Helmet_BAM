@@ -17,7 +17,7 @@ Adafruit_NeoPixel strip = Adafruit_NeoPixel(16, PIN, NEO_GRB + NEO_KHZ800);
 char MESSAGE [MESSAGE_LENGTH];
 String locationstring, lati = "53.344401", longd = "-6.257599";
 
-
+//test
 DFRobot_SIM808 sim808(&Serial);
 const int MPU_ADDR = 0x68;
 int16_t accelerometer_x, accelerometer_y, accelerometer_z;

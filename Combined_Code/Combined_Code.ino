@@ -1,5 +1,4 @@
-#include <DFRobot_sim808.h>
-#include <sim808.h>
+
 
 // Combined code for helmet
 #include <DFRobot_sim808.h>
